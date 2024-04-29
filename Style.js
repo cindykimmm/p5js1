@@ -4,6 +4,8 @@ function setup() {
   createCanvas(400, 400);
   noFill();
 
+   let canvas=
+  createCanvas(400, 400);
    canvas.parent('sketch2');
 }
 
