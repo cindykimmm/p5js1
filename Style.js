@@ -5,7 +5,7 @@ function setup() {
   noFill();
 
    let canvas=
-  createCanvas(400, 400);
+  createCanvas(100, 100);
    canvas.parent('sketch2');
 }
 
